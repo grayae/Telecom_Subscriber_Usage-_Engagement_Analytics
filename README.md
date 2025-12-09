@@ -16,16 +16,16 @@ Power BI, SQL, DAX
 ## PowerBI Dashboards
 
 ### Executive Summary Dashboard
-![Executive Summary](screenshots/executive_summary.png.png)
+![Executive Summary](screenshots/executive_summary.png)
 
 ### Usage & Engagement Analysis Dashboard
-![Usage & Engagement](screenshots/usage_engagement.png.png)
+![Usage & Engagement](screenshots/usage_engagement.png)
 
 ### Network Events Dashboard
-![Network Events](screenshots/network_events.png.png)
+![Network Events](screenshots/network_events.png)
 
 ### Engagement Risk Analysis Dashboard
-![Engagement Risk](screenshots/engagement_risk.png.png)
+![Engagement Risk](screenshots/engagement_risk.png)
 
 ## Executive Summary Dashboard
 
